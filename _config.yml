@@ -1,4 +1,3 @@
-layout_spectrum: 0.11362337064929307
 typography_spectrum: 0.5199450585059822
 color:
   brandStrength: 0.6078284424729645
@@ -11,5 +10,7 @@ color:
     - '#25352A'
     - '#90B0D9'
     - '#269A9A'
+layout_spectrum: 0.11362337064929307
 name: fidgets
 title: unlimited distractions
+description: 'tech, travel, & innovations'
